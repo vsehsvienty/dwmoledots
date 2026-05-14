@@ -1,0 +1,2 @@
+# dwmoledots
+my dwm dots
